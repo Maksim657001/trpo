@@ -1,0 +1,7 @@
+﻿  Unit_Test_calculator.cpp
+C:\Users\Work\source\repos\calculator\calculator\main.cpp(57,17): warning C4477: "scanf_s": в строке форматирования "%c" требуется аргумент типа "unsigned int", но вариативный аргумент "3" имеет тип "double *"
+C:\Users\Work\source\repos\calculator\calculator\main.cpp(57,17): message : этот аргумент используется в качестве размера буфера
+C:\Users\Work\source\repos\calculator\calculator\main.cpp(57,17): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\Users\Work\source\repos\calculator\calculator\main.cpp(57,17): message : заполнители и их параметры ожидают переменное число аргументов в количестве 4, но было предоставлено 3
+C:\Users\Work\source\repos\calculator\calculator\main.cpp(57,17): message : отсутствующий вариативный аргумент "4" требуется для строки форматирования "%lf"
+  Unit_Test_calculator.vcxproj -> C:\Users\Work\source\repos\calculator\Debug\Unit_Test_calculator.dll
