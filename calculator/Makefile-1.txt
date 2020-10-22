@@ -1,3 +1,0 @@
-all:
-	g++ main.cpp pch.cpp pch.h Unit_Test_calculator.cpp -o trpo
-		
