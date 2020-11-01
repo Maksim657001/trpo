@@ -1,0 +1,4 @@
+*.exe
+Debug\calculator.exe
+calculator\calculator\Debug\calculator.exe.recipe
+Unit_Test_calculator\Debug
