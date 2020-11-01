@@ -1,11 +1,7 @@
-language: cpp
-compiler: g++
+  language: c
+compiler: gcc
 
-dist: xenial
-
-sqript:
-    - git ls-files Unit_Test_calculator/
-    - make
-    - make test
-    - make runtest
-
+script:
+  - make
+  - make test
+  - make runtest
